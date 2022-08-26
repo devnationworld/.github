@@ -3,7 +3,7 @@
 
 <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-Developer Nation is a global community helping developers be their best! 
+A global community helping developers be their best! 
 
 We champion a software development ecosystem where software creators can thrive by setting the right foundations for their careers and making conscious career decisions.
 
