@@ -1,6 +1,10 @@
 <br><img src="https://www.developernation.net/static/logo-3fc72a1a41aaed254dffa9c5766d72da.svg" width="200"><br>
 # Welcome to DeveloperNation! 
 
+[Participate](https://www.developereconomics.net) in 24th Edition of Developer Nation survey and win amazing prizes:
+<br><img src="https://raw.githubusercontent.com/devnationworld/.github/main/survey.png" width="3000"><br>
+
+---
 <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
 Developer Nation is a global community helping developers be their best! 
