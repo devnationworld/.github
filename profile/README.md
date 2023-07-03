@@ -1,9 +1,9 @@
 <br><img src="https://www.developernation.net/static/logo-3fc72a1a41aaed254dffa9c5766d72da.svg" width="200"><br>
 # Welcome to Developer Nation! 
 
-[Participate](https://www.developereconomics.net) in 24th Edition of Developer Nation survey and win amazing prizes:
+[Participate](https://survey.developernation.net/name/dn25/branch/main?utm_medium=some&utm_source=github&utm_campaign=githubcover_dn25) in 25th Edition of Developer Nation survey and win amazing prizes:
 
-<a href="http://developereconomics.net" rel="24th Edition of Developer Nation Survey">![Pulse Report](https://raw.githubusercontent.com/devnationworld/.github/main/survey.png)</a>
+<a href="http://developereconomics.net" rel="25th Edition of Developer Nation Survey">![Pulse Report](https://raw.githubusercontent.com/devnationworld/.github/main/survey2.png)</a>
 
 ---
 
