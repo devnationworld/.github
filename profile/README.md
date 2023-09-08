@@ -15,6 +15,8 @@ We champion a software development ecosystem where software creators can thrive 
 
 • Instantly connect with over 30,000 software creators globally. 👯‍♂️
 
+• Read our latest pulse report [here](https://developernation.net/developer-reports/dn24)
+
 • Be the first to find out about new Developer Nation surveys with huge giveaways. 🎁
 
 • Get early access to the State of the Developer Nation Report published after each survey. 🔖
